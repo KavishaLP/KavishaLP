@@ -1,4 +1,3 @@
-# KavishaLP.github.io
 Hello, I'm Kavisha Shehani 👋
 
 🚀 Full-stack Developer | 💻 Open Source Contributor | 🎓 IT undergraduate
